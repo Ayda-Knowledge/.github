@@ -57,7 +57,7 @@ Microsoft, an audit trail, and installation in your cloud by a named engineer.
 within one working day.
 
 **Ayda Open Edition** is for one person or a small group that trusts each
-other. It will be open source. We are preparing it for public release now.
+other. An open-source release is planned.
 
 ## Use Ayda from Claude
 
