@@ -24,7 +24,7 @@ agent can read the same graph through the Model Context Protocol.
 
 | Step | What happens |
 | :-- | :-- |
-| **1 &nbsp; Connect** | Slack, Google Drive, Gmail, GitHub, Notion, meeting notes, web pages and document folders. Connectors are read-only: Ayda never writes to your tools. |
+| **1 &nbsp; Connect** | Slack, Google Drive, Gmail, Google Chat, Google Calendar, Google Meet, GitHub, Notion, meeting notes, web pages and document folders. Connectors are read-only: Ayda never writes to your tools. |
 | **2 &nbsp; Redact** | Secrets and credentials are removed before any text is stored or sent to a model. |
 | **3 &nbsp; Build the graph** | People, projects, decisions and conversations are linked across sources, with one identity for each person. |
 | **4 &nbsp; Ask** | Answers come with numbered citations to the source records, in the Ayda app or in the agent you already use. |
@@ -57,7 +57,7 @@ Microsoft, an audit trail, and installation in your cloud by a named engineer.
 within one working day.
 
 **Ayda Open Edition** is for one person or a small group that trusts each
-other. An open-source release is planned.
+other. It is on hold while we focus on Ayda Enterprise.
 
 ## Use Ayda from Claude
 
