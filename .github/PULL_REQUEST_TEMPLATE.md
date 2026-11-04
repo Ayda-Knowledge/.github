@@ -2,7 +2,7 @@
 <!-- State the problem and the resulting behavior. -->
 
 ## Related work
-<!-- Link the issue or source request. Say "No issue" when appropriate. -->
+<!-- Link the issue with Closes #<number>, or state No issue: <reason> under the development standard. -->
 
 ## Verification
 <!-- Give commands, results and runtime evidence. Name anything not checked. -->
