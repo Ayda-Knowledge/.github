@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayda-Knowledge/.github/main/profile/assets/logo-kit/ayda-logo-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayda-Knowledge/.github/main/profile/assets/logo-kit/ayda-logo-full.svg" />
+    <img src="https://raw.githubusercontent.com/Ayda-Knowledge/.github/main/profile/assets/logo-kit/ayda-logo-full.svg" alt="Ayda" width="180" />
+  </picture>
+</p>
+
 <a href="https://github.com/Ayda-Knowledge/.github/blob/main/profile/assets/ayda-promo.mp4">
   <img src="https://raw.githubusercontent.com/Ayda-Knowledge/.github/main/profile/assets/ayda-promo.webp" alt="Ayda in 30 seconds: company knowledge scattered across Slack, Jira, Google Drive, Gmail, GitHub, Notion and meetings becomes one knowledge graph. A person asks why a launch moved, and Ayda answers with numbered citations to the planning call, the Slack thread and the supplier contract." width="100%">
 </a>
@@ -64,7 +72,7 @@ other. It is on hold while we focus on Ayda Enterprise.
 [**Ayda for Claude**](https://github.com/Ayda-Knowledge/ayda-plugin) is our
 open-source plugin. It connects Claude and other skill or MCP agents to your
 company's own Ayda and adds skills for cited answers, a daily brief, open
-loops, decision traces and fact checks.
+loops, decision traces, fact checks, onboarding briefs and saved Ayda memories.
 
 <br>
 
